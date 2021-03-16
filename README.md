@@ -25,7 +25,7 @@ Devise
 gem 'rest-client'
 gem 'papper-clip'
 gem 'notify'  
-gem 'OAuth'
+OAuth
 
 
 I will use use Heroku to deploy this App.
