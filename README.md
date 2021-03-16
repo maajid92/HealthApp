@@ -1,6 +1,6 @@
 # README
 
-This App is intended to create an environment that helps you to take your health and perform tasks like book appointments and view  about your booked appointments.
+This App is intended to create an environment that helps you to take your health and perform tasks like book doctor appointments and view  about your booked appointments.
 
 
 
@@ -19,13 +19,13 @@ List of availible doctors
 Online Training
 User management
 
-Other Technologies
+Other Technologies to be used 
 notification
 Devise
 gem 'rest-client'
 gem 'papper-clip'
 
-
+I will use use Heroku to deploy this App.
 
 
 The Catalog Design
