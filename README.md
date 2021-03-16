@@ -3,7 +3,6 @@
 This App is intended to create an environment that helps you to take your health and perform tasks like book doctor appointments and view  about your booked appointments.
 
 
-
 Version
 Ruby 2.6.5 Rails 5.2.4'
 
