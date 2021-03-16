@@ -19,11 +19,14 @@ List of availible doctors
 Online Training
 User management
 
-Other Technologies to be used 
+Other Technologies to be used
 notification
 Devise
 gem 'rest-client'
 gem 'papper-clip'
+gem 'notify'  
+gem 'OAuth'
+
 
 I will use use Heroku to deploy this App.
 
